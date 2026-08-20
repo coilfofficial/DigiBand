@@ -10,7 +10,7 @@ cd DigiBand
 python setup.py
 python main.py
 ```
-###### *Or If you want Debug you can type:*
+###### *If you want to check for errors or verify how the code works, enter the following parameter:*
 ```python
 main.py --logdbg
 ```
