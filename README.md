@@ -7,7 +7,11 @@ cd DigiBand
 ```
 
 ```python
-python setup.py run.py main.py
+python setup.py
+python main.py
+```
 ###### *Or If you want Debug you can type:*
+```python
 main.py --logdbg
 ```
+
